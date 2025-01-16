@@ -4,7 +4,7 @@
 This project predicts daily sales for Rossmann stores using a Feedforward Neural Network (FNN). By leveraging structured data and advanced deep learning techniques, the model identifies complex patterns to improve sales forecasts, aiding store managers in better scheduling and decision-making.
 
 ## Features
-### Data Preprocessing
+### Data Preprocessing (Data adquired from : https://www.kaggle.com/c/rossmann-store-sales)
 - **Handling Missing Data**:
   - Fills missing values for competition distance, promo intervals, and other fields with appropriate defaults.
 - **Feature Engineering**:
