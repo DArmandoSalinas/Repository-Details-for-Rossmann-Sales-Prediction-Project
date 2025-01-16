@@ -49,3 +49,5 @@ Key steps for running the project:
 2. cd RossmannSales_FNN
 3. python Preprocessed.py
 4. python ExploringTrainingTesting.py
+
+Foldrer with all my files: https://drive.google.com/drive/folders/1E3_7ZYApbGVmjl8jpiswPWB5VdzZNmyH?usp=sharing
